@@ -1,6 +1,6 @@
 # Roadmap-ML
 ```mermaid
-graph TD
+graph TB
     ML_Roadmap["🧠 Machine Learning Roadmap"]
 
     %% Основные разделы

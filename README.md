@@ -1,5 +1,5 @@
 # Roadmap-ML
-
+```mermaid
 graph TD
   %% Фаза 1 – основы
   subgraph Phase1["Фаза 1: Основы (0–3 мес.)"]
@@ -52,3 +52,4 @@ graph TD
     F1 --> F2 --> F3
   end
   Phase5 --> Phase6
+```
